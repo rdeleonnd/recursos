@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<configuration date="2016/07/15" author="e.World Technology Ltd.">
+<project id="{8127A4B8-77E3-4A91-B475-0A98E2BB4762}" file="C:\Users\Vecsabi\Documents\PHPMaker\Projects\recursos_humanos.pmp" name="recursos_humanos" product="PHPMaker" version="12.0" datetime="2016/07/15 10:42:47" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+<table id="user" name="user" caption="Usuario" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevel" name="userlevel" caption="Nivel de Usuario" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevelpermission" name="userlevelpermission" caption="Permisos de Nivel de Usuario" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="afinidad" name="afinidad" caption="Afinidad" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="area" name="area" caption="Area" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="banco" name="banco" caption="Banco" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="comisiones" name="comisiones" caption="Comisiones" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cuenta_bancaria" name="cuenta_bancaria" caption="Cuenta Bancaria" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="departamento" name="departamento" caption="Departamento" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="departamento_origen" name="departamento_origen" caption="Departamentos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="empleado" name="empleado" caption="Empleado" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="historial_clinico" name="historial_clinico" caption="Historial Clinico" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="historial_laboral" name="historial_laboral" caption="historial laboral" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="informacion_academica" name="informacion_academica" caption="Información Academica" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="informacion_familiar" name="informacion_familiar" caption="Información Familiar" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="municipio" name="municipio" caption="Municipios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="nacionalidad" name="nacionalidad" caption="Nacionalidad" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="permisos" name="permisos" caption="Permisos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="puesto" name="puesto" caption="Puesto" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="seccion" name="seccion" caption="Sección" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="sede" name="sede" caption="Sede" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="tipo_sangre" name="tipo_sangre" caption="Tipo de Sangre" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="tipo_vehiculo" name="tipo_vehiculo" caption="Tipo vehiculo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="tipo_vivienda" name="tipo_vivienda" caption="Tipo de vivienda" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vacaciones" name="vacaciones" caption="Vacaciones" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vehiculo" name="vehiculo" caption="Vehiculo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vivienda" name="vivienda" caption="Vivienda" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="estado_civil" name="estado_civil" caption="Estado Civil" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="sexo" name="sexo" caption="Sexo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
